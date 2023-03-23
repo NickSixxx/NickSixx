@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I live in brazil, São Paulo 📍<br>18y<br>Systems development 4/4 🚀</p>
+<p align="left">I live in Brazil, São Paulo 📍<br>18y<br>Systems development 4/4 🚀</p>
 
 ###
 
@@ -31,3 +31,8 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/NickSIxxx/NickSIxxx/blob/output/snake.svg" alt="Snake animation" />
+
+###
